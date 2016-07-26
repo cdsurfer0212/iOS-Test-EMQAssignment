@@ -1,0 +1,6 @@
+framework module Pods_EMQAssignmentUITests {
+  umbrella header "Pods-EMQAssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

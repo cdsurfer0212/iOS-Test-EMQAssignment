@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireObjectMapper (3.0.0):
+    - Alamofire (~> 3.2)
+    - ObjectMapper (~> 1.0)
+  - AppDevKit (1.0.1):
+    - AppDevKit/AppDevAnimateKit (= 1.0.1)
+    - AppDevKit/AppDevCommonKit (= 1.0.1)
+    - AppDevKit/AppDevImageKit (= 1.0.1)
+    - AppDevKit/AppDevListViewKit (= 1.0.1)
+    - AppDevKit/AppDevUIKit (= 1.0.1)
+  - AppDevKit/AppDevAnimateKit (1.0.1)
+  - AppDevKit/AppDevCommonKit (1.0.1)
+  - AppDevKit/AppDevImageKit (1.0.1):
+    - AppDevKit/AppDevCommonKit
+  - AppDevKit/AppDevListViewKit (1.0.1):
+    - AppDevKit/AppDevCommonKit
+    - AppDevKit/AppDevUIKit
+  - AppDevKit/AppDevUIKit (1.0.1):
+    - AppDevKit/AppDevCommonKit
+  - ObjectMapper (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AlamofireObjectMapper (~> 3.0)
+  - AppDevKit (~> 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireObjectMapper: 2d16585d06177be0116d76de73497e77437798af
+  AppDevKit: af49664c845d2b5736f520df77860ed1c407f1c2
+  ObjectMapper: 4eb08a726e9791a93b2632049951b56a7c17e471
+
+PODFILE CHECKSUM: 1a7694ee4834c6c0879cbc2dfa1ee299b40ea686
+
+COCOAPODS: 1.0.1
